@@ -1,0 +1,79 @@
+.btn{
+    border-radius:25px;
+    
+}
+.sign-in{
+    padding:3px 20px;
+}
+.nav-item{
+    margin-right:30px;
+    padding:10px 20px; 
+}
+.navbar ,.carousel{
+    padding:40px 100px;
+    background-color: #F0FFF0;
+     
+    
+}
+.ready{
+    color:red;
+}
+.learn{
+    font-size: 50px;
+    font-weight: 100px;
+    margin-top: 25px;
+}
+span{
+    color:green;
+}
+h5{
+    margin-top: 25px;
+    color:grey;
+}
+.get-start{
+    margin-top: 25px;
+    padding:10px 25px;
+}
+.row{
+    margin-top: 100px;
+}
+.card-body{
+    background-color: #F8FFFB;
+    padding-left: 70px;
+    
+}
+.unique{
+    background-color: white;
+}
+.card-title img{
+    padding-left: 25px;
+}
+.two-extend{
+    padding-bottom: 30px;
+}
+.copy{
+    text-align: center;
+    margin-top: 60px;
+    background-color:#282531;
+    color:white;
+    padding-left: 45%;
+}
+.last-container{
+    background-color:#282531;
+    color:white;
+}
+.million-people{
+    padding: 60px;
+}
+.h1-tags{
+    color:#413960;
+    text-align: center;
+    padding:60px;
+}
+.man-testimonial{
+    padding-left: 30%;
+}
+.first-card{
+    border-radius: 5px;
+    
+}
